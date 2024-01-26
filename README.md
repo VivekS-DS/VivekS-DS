@@ -18,7 +18,7 @@
 
 <br>
 <div align="">
-  <h2>Technologies That I Know👨🏻‍💻</h2>
+  <h2>Languages and Technologies 🧑‍💻 </h2>
 </div>
 
 <!--tech stack icons-->
