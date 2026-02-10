@@ -107,12 +107,17 @@ Analyzed **1,76,744 applicants** across **424 colleges and 103 branches** in Tam
 <!-- GitHub Stats -->
 ### 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VivekS-DS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2F81F7&icon_color=2F81F7" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekS-DS&layout=compact&theme=github_dark&hide_border=true&title_color=2F81F7&langs_count=8" width="41%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VivekS-DS&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=2F81F7&icon_color=2F81F7&cache_seconds=1800" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VivekS-DS&layout=compact&theme=github_dark&hide_border=true&title_color=2F81F7&langs_count=8&cache_seconds=1800" width="41%"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=VivekS-DS&theme=github-dark-blue&hide_border=true&ring=2F81F7&fire=2F81F7&currStreakLabel=2F81F7" width="55%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VivekS-DS&theme=github_dark" width="92%"/>
 </p>
 
 ---
